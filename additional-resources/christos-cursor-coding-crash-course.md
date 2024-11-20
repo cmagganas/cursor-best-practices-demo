@@ -1,4 +1,5 @@
 # Christos' Cursor Coding Crash Course
+- [Christos' AI Engineering with cursor Medium Post](https://medium.com/@cmagganas/ai-engineering-with-cursor-9711cb245ae6)
 
 ## Cursor Blog
 
