@@ -120,6 +120,7 @@ print(message.content)
 ```
 
 # Current File Structure
+```
 fastapi-project/
 ├── LICENSE
 ├── README.md
@@ -134,3 +135,4 @@ fastapi-project/
 │   ├── models.py
 │   ├── schemas.py
 │   └── utils.py
+```
